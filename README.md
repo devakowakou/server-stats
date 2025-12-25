@@ -1,6 +1,6 @@
 # 🖥️ Server Stats — Linux Server Performance Monitoring Script
 
-Project URL: https://github.com/devakowakou/server-stats
+Project URL: https://roadmap.sh/projects/server-stats
 
 Un script Bash simple, portable et professionnel permettant d’analyser rapidement l’état de santé d’un serveur Linux.
 
